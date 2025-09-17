@@ -1,4 +1,4 @@
-#🏋️ Classificador de IMC (Índice de Massa Corporal)
+# 🏋️ Classificador de IMC (Índice de Massa Corporal)
 
 Este programa calcula e classifica o IMC (Índice de Massa Corporal) de uma pessoa com base no seu peso e altura. Ele exibe uma mensagem informando a classificação do IMC, como por exemplo:
 
